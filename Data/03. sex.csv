@@ -1,0 +1,5 @@
+;Daily Error Rate;Daily Error Rate;Daily Error Rate;90-day Complaints;90-day Complaints;90-day Complaints
+;size;sum;median;size;sum;median
+sex;;;;;;
+Female;177;132;0,745762712;177;48;0,271186441
+Male;133;55;0,413533835;133;17;0,127819549

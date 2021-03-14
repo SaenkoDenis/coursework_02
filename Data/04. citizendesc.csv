@@ -1,0 +1,6 @@
+;Daily Error Rate;Daily Error Rate;Daily Error Rate;90-day Complaints;90-day Complaints;90-day Complaints
+;size;sum;median;size;sum;median
+citizendesc;;;;;;
+Eligible NonCitizen;12;9;0,75;12;1;0,083333333
+Non-Citizen;4;5;1,25;4;1;0,25
+US Citizen;294;173;0,588435374;294;63;0,214285714

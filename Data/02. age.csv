@@ -1,0 +1,6 @@
+;Pay Rate;Pay Rate;Pay Rate;Days Employed;Days Employed;Days Employed;Daily Error Rate;Daily Error Rate;Daily Error Rate;90-day Complaints;90-day Complaints;90-day Complaints;Reason For Term_more money;Reason For Term_more money;Reason For Term_more money
+;size;sum;median;size;sum;median;size;sum;median;size;sum;median;size;sum;median
+age;;;;;;;;;;;;;;;
+(0, 30];51;1745,07;28;51;65472;1112;51;19;0,37254902;51;6;0,117647059;51;1;0
+(30, 50];224;6799,92;23,25;224;293515;1291;224;143;0,638392857;224;48;0,214285714;224;8;0
+(50, 80];35;1153,3;26;35;42798;1238;35;25;0,714285714;35;11;0,314285714;35;2;0
